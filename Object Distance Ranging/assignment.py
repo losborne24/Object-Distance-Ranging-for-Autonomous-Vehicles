@@ -7,7 +7,7 @@ import numpy as np
 import os
 import math
 
-master_path_to_dataset = "TTBB-durham-02-10-17-sub10"  # directory containing images
+master_path_to_dataset = "data"  # directory containing images
 directory_to_cycle_left = "left-images"
 directory_to_cycle_right = "right-images"
 
