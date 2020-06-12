@@ -1,4 +1,4 @@
-Assignment: Stereo Vision for Object Distance Ranging on Autonomous Vehicles
+Assignment: Stereo Vision for Object Distance Ranging on Autonomous Vehicles (Computer Vision)
 
 A stereo vision system that detects pedestrians and vehicles within the scene in-front of the vehicle and estimates the range in metres to those objects using YOLO.
 
